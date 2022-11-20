@@ -1,2 +1,2 @@
 # Self-GIT-Study
-For learn and organize GIT instructions
+To learn and organize GIT instructions
